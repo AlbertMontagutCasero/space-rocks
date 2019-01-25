@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/laser_green.png-4cf68efe4189e02eaad94931de00b484.stex"
+path="res://.import/player_small.png-57948ec68be15acbdb13ccff20e331b3.stex"
 
 [deps]
 
-source_file="res://art/laser_green.png"
-dest_files=[ "res://.import/laser_green.png-4cf68efe4189e02eaad94931de00b484.stex" ]
+source_file="res://player/player_small.png"
+dest_files=[ "res://.import/player_small.png-57948ec68be15acbdb13ccff20e331b3.stex" ]
 
 [params]
 

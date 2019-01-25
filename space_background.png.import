@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/laser.png-582b25a39cfa4d8d29e6ed18abfee315.stex"
+path="res://.import/space_background.png-2ce74f7ebd9f89baaf0d9e60af70b045.stex"
 
 [deps]
 
-source_file="res://art/laser.png"
-dest_files=[ "res://.import/laser.png-582b25a39cfa4d8d29e6ed18abfee315.stex" ]
+source_file="res://space_background.png"
+dest_files=[ "res://.import/space_background.png-2ce74f7ebd9f89baaf0d9e60af70b045.stex" ]
 
 [params]
 
